@@ -1,2 +1,2 @@
-* GitHub and Git Course *
+**GitHub and Git Course**.  
 Let's learn GitHub the right way :-)
